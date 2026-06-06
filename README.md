@@ -1,8 +1,10 @@
 # 🔍 Fine Print
 
-**Fine Print** reads the Terms & Conditions so you don't have to.
+Have you ever blindly clicked "I Agree" — only to face consequences you never saw coming? A hidden auto-renewal charge, your content handed over, your right to sue quietly waived. It's rare that something goes wrong, but when it does, you wish you'd known.
 
-Paste a T&C URL or raw text and instantly get a plain-English breakdown of what you're actually agreeing to — with red flags highlighted.
+**Fine Print** reads the Terms & Conditions so you don't have to. Paste a URL or raw text and instantly get a plain-English breakdown of what you're actually agreeing to — with red flags called out clearly.
+
+> **The roadmap:** Fine Print is currently a web app, but the plan is to turn it into a browser extension that automatically detects Terms & Conditions pages and raises a warning before you agree to anything sketchy.
 
 ## What it does
 
@@ -14,7 +16,7 @@ Paste a T&C URL or raw text and instantly get a plain-English breakdown of what 
 
 - **Streamlit** — frontend
 - **GraphN** — multi-agent AI pipeline (TC_Analyzer + Report_Synthesizer)
-- **Lightning AI Studios**
+- **Lightning AI Studios** — hosting
 
 ## Running locally
 
