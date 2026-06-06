@@ -14,7 +14,7 @@ Paste a T&C URL or raw text and instantly get a plain-English breakdown of what 
 
 - **Streamlit** — frontend
 - **GraphN** — multi-agent AI pipeline (TC_Analyzer + Report_Synthesizer)
-- **Lightning AI Studios** — hosting
+- **Lightning AI Studios**
 
 ## Running locally
 
